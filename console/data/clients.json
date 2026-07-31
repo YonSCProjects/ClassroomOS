@@ -1,0 +1,76 @@
+{
+  "clients": [
+    {
+      "name": "PC-01",
+      "ip":   "192.168.1.101",
+      "mac":  "AA:BB:CC:DD:EE:01",
+      "description": ""
+    },
+    {
+      "name": "PC-02",
+      "ip":   "192.168.1.102",
+      "mac":  "AA:BB:CC:DD:EE:02",
+      "description": ""
+    },
+    {
+      "name": "PC-03",
+      "ip":   "192.168.1.103",
+      "mac":  "AA:BB:CC:DD:EE:03",
+      "description": ""
+    },
+    {
+      "name": "PC-04",
+      "ip":   "192.168.1.104",
+      "mac":  "AA:BB:CC:DD:EE:04",
+      "description": ""
+    },
+    {
+      "name": "PC-05",
+      "ip":   "192.168.1.105",
+      "mac":  "AA:BB:CC:DD:EE:05",
+      "description": ""
+    },
+    {
+      "name": "PC-06",
+      "ip":   "192.168.1.106",
+      "mac":  "AA:BB:CC:DD:EE:06",
+      "description": ""
+    },
+    {
+      "name": "PC-07",
+      "ip":   "192.168.1.107",
+      "mac":  "AA:BB:CC:DD:EE:07",
+      "description": ""
+    },
+    {
+      "name": "PC-08",
+      "ip":   "192.168.1.108",
+      "mac":  "AA:BB:CC:DD:EE:08",
+      "description": ""
+    },
+    {
+      "name": "PC-09",
+      "ip":   "192.168.1.109",
+      "mac":  "AA:BB:CC:DD:EE:09",
+      "description": ""
+    },
+    {
+      "name": "PC-10",
+      "ip":   "192.168.1.110",
+      "mac":  "AA:BB:CC:DD:EE:10",
+      "description": ""
+    },
+    {
+      "name": "PC-11",
+      "ip":   "192.168.1.111",
+      "mac":  "AA:BB:CC:DD:EE:11",
+      "description": ""
+    },
+    {
+      "name": "PC-12",
+      "ip":   "192.168.1.112",
+      "mac":  "AA:BB:CC:DD:EE:12",
+      "description": ""
+    }
+  ]
+}

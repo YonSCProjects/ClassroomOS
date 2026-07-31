@@ -1,0 +1,24 @@
+# ═══════════════════════════════════════════════════════════════
+# ClassroomOS — Python Requirements
+# ═══════════════════════════════════════════════════════════════
+# Install with:  pip install -r requirements.txt
+#
+# Console machine:       All packages below
+# Client machines:       Only [AGENT] packages needed
+# ═══════════════════════════════════════════════════════════════
+
+# ── [BOTH] Core ────────────────────────────────────────────────
+bcrypt>=4.0.0          # Password hashing (console auth)
+Pillow>=10.0.0         # Image handling (thumbnails, screenshots)
+psutil>=5.9.0          # System metrics (health, process list)
+
+# ── [AGENT] Windows-specific ───────────────────────────────────
+pywin32>=306           # Windows service API + registry
+pyautogui>=0.9.54      # Input replay (mouse + keyboard)
+mss>=9.0.1             # Fast screen capture
+
+# ── [CONSOLE] GUI ──────────────────────────────────────────────
+customtkinter>=5.2.0   # Modern dark-themed Tkinter widgets
+
+# ── Optional: build agent executable ──────────────────────────
+# pyinstaller>=6.0.0   # Compile agent to .exe (run separately)
